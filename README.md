@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Eloy 👋
 
-<!--
-**eloyakly/eloyakly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+- 🎓 Estudiante de Ingeniería de Sistemas.
+- 💻 Enfocado en el desarrollo Full Stack y arquitectura de software.
+- 🛠️ Actualmente trabajando en **Linkflix** y proyectos de optimización.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Mis Estadísticas
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
